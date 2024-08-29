@@ -1,0 +1,8 @@
+export const ADMIN_LOGIN='ADMIN_LOGIN';
+export const GET_USER='GET_USER';
+export const GET_MUTUAL_FORM='GET_MUTUAL_FORM';
+export const GET_CONTACT='GET_CONTACT';
+
+export const LOGOUT='LOGOUT';
+export const TOGGLE_NOTIFICATION='TOGGLE_NOTIFICATION';
+export const GET_REACH_OUT='GET_REACH_OUT';
